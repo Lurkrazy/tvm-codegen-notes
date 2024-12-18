@@ -4,7 +4,7 @@
 
 # Codegen Optimization
 
-* DietCode, dynamic shape, loop partitioning and local padding optimization for CUDA [repo](https://github.com/UofT-EcoSystem/DietCode) [source code](https://github.com/UofT-EcoSystem/tvm/tree/4a7edcf19382d93908f2226b226bb58f18d4e1fb#local-padding) [paper](https://assets.amazon.science/14/33/43345d8142d8936ec591f5600aa5/dietcode-automatic-optimization-for-dynamic-tensor-programs.pdf) [slides](https://mlsys.org/media/mlsys-2022/Slides/2175.pdf)
+* DietCode, dynamic shape, loop partitioning and local padding optimization for CUDA [repo](https://github.com/UofT-EcoSystem/DietCode) [source code](https://github.com/UofT-EcoSystem/tvm/tree/4a7edcf19382d93908f2226b226bb58f18d4e1fb#local-padding) [paper](https://assets.amazon.science/14/33/43345d8142d8936ec591f5600aa5/dietcode-automatic-optimization-for-dynamic-tensor-programs.pdf) [slides](https://mlsys.org/media/mlsys-2022/Slides/2175.pdf) [pre-RFC](https://discuss.tvm.apache.org/t/rfc-dietcode-an-auto-scheduler-for-dynamic-tensor-programs/12757)
 
 
 # CPU backend
