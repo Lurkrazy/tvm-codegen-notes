@@ -4,7 +4,7 @@
 
 # Codegen Optimization
 
-* [DietCode, dynamic shape, loop partitioning and local padding optimization for CUDA](https://github.com/UofT-EcoSystem/DietCode)
+* [DietCode, dynamic shape, loop partitioning and local padding optimization for CUDA](https://github.com/UofT-EcoSystem/DietCode) [source code](https://github.com/UofT-EcoSystem/tvm/tree/4a7edcf19382d93908f2226b226bb58f18d4e1fb#local-padding)
 
 
 # CPU backend
