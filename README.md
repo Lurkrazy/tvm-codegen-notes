@@ -17,3 +17,5 @@
 
 * [Halide SVE support](https://github.com/halide/Halide/pull/6781)
 
+* [Extend TVM by including dependencies in Cmake](https://github.com/LeiWang1999/TVM.CMakeExtend)
+
